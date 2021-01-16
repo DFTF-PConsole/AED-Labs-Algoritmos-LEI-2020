@@ -1,0 +1,33 @@
+TEXTO
+Dizem-nos os arautos que ser comediante é uma profissão de alto risco,
+pois o sucesso que suscita ser o humorista eleito da corte pode ser tão
+intenso e inebriante quanto o seu desgaste vertiginosamente rápido. Não
+será certamente este o caso de Ricardo Araújo Pereira.
+RAP é um corredor de fundo. Começou em 1997 a colaborar com as Produções
+Fictícias — à época a maior fábrica de escrita e produção de humor —,
+onde entrou logo pela porta grande, a escrever sketches para Herman José,
+outro grande comediante e um dos seus maiores ídolos. Tinha então 23 anos.
+Seis anos depois, na SIC Radical, deu a cara como protagonista do “Gato
+Fedorento” e tornou-se rapidamente na incontornável referência do humor
+contemporâneo nacional.
+FIM.
+LINHAS anos
+LINHAS de
+LINHAS tornou
+ASSOC outro 1
+ASSOC Fedorento 9
+ASSOC tornou-se 9
+TCHAU
+
+
+
+
+
+*** Output mooshak: ***
+GUARDADO.\n
+7 8\n
+0 3 4 5\n
+-1\n
+NAO ENCONTRADA.\n
+NAO ENCONTRADA.\n
+ENCONTRADA.\n

@@ -1,0 +1,48 @@
+PALAVRAS
+Trump 1020
+Covid 123
+Trump 1020
+Trump 567
+SIC 124
+SIC 124
+TRUMP 1020
+Tele-escola 123
+Tradutor 1023
+Tele-escola 8965
+Tele-escola 5465
+FIM.
+PESQ_GLOBAL
+PESQ_UTILIZADORES
+TCHAU
+
+
+
+
+
+*** Output mooshak: ***
+GUARDADAS
+TRUMP
+TELE-ESCOLA
+
+
+*******************************************
+PALAVRAS
+AED 1001
+AED 2200
+AED 300
+DEI 1001
+DEI 1001
+DEI 2200
+FIM.
+PESQ_GLOBAL
+PESQ_UTILIZADORES
+TCHAU
+
+
+
+
+*** Output mooshak: ***
+GUARDADAS
+AED DEI
+AED
+
