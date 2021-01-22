@@ -7,3 +7,5 @@ FCTUC DEI/LEI 2019/2020 - Licenciatura em Engenharia Informatica
 AED - Algoritmos e Estruturas de Dados
 
 Labs/TP: Complexidade, Arvores e Ordenamento
+
+Autor: Dário Félix / DFTF@PConsole# (DFTF-PConsole)
